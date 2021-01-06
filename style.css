@@ -1,0 +1,114 @@
+html{
+	scroll-behavior: smooth;
+	
+}
+
+body{
+	font-family: 'montserrat';
+}
+
+
+.nav a,ul,li{
+	color:white;
+	margin-right:40px; 
+	text-transform:uppercase;
+	font-size: 1.1em !important; 
+}
+
+li a:hover {
+    background-color: #840000;
+    color: white;
+}
+.navbar{
+	height:60px;
+}
+h4{
+	font-family: 'montserrat-bold';
+	text-transform:uppercase;
+	text-align:center;
+}
+
+.slogan{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+/*our slogan header*/
+.cslogan{
+	color: #e60d2d;
+	font-size: 3.1em;
+	padding-bottom: -2px;
+}
+/*slogan phrase*/
+#pslogan{
+	color: #3f3e40;
+	font-size: 2.1em;
+
+		
+}
+
+	
+.services{
+	padding-top: 40px;
+	background-color: #79cbca;
+	padding-bottom: 40px;
+}
+
+
+
+#service{
+	padding-bottom: 40px;
+}
+
+
+h2{ 
+	text-align: center;
+	font-family: 'montserrat-ultralight';
+	padding-top: 40px;
+	padding-bottom: 30px;
+	text-transform:uppercase;
+}
+
+form{
+	
+}
+
+.Aboutus{
+	background:#840000;
+	color: white;
+	padding-bottom: 40px;
+}
+
+.clients{
+	text-align: center;
+	background: #eff1f2;
+	padding-bottom: 40px;
+}
+
+.testimonials{
+	background: #fcda36;
+	padding-bottom: 40px;
+}
+
+.fas{
+	color: orange;
+}
+
+.contact{
+	padding-bottom: 60px;
+	background: #eff1f2;
+}	
+.awesomeicons{
+	padding-bottom: 1px;
+	background: #232526;
+}
+.fab{
+	color: orange;
+}
+.copyright{
+	color: white;
+}
+
+#aeddf9;
+	background: linear-gradient(#aeddf9, #9dd6f9);
+
+
